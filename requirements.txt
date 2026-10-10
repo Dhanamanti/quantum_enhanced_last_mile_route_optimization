@@ -1,0 +1,6 @@
+qiskit
+qiskit-optimization
+qiskit-algorithms
+numpy
+pandas
+matplotlib
